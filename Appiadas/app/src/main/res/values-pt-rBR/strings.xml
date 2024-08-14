@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Appiadas</string>
+    <string name="label_joker_hint">Conte outra piada</string>
+    <string name="button_new_joker">Tell another joke</string>
+    <string name="joker_one">x</string>
+    <string name="joker_two">x</string>
+    <string name="joker_three">x</string>
+    <string name="joker_four">x</string>
+    <string name="joker_five">x</string>
+    <string name="joker_six">x</string>
+    <string name="joker_seven">x</string>
+</resources>
